@@ -6,7 +6,7 @@
 
 ## 欢迎光临我的 blog 🎉
 
-我是 sooooooooooooooooootheby(s22y), 一个前端 `developer`, 我擅长使用`vue.js` & `Nuxt.js`.
+我是 克喵爱吃卤面(Kemeow815), 一个前端 `developer`, 我擅长使用`vue.js` & `Nuxt.js`.
 
 ## 正在研究的项目 🎁
 
@@ -29,8 +29,8 @@
 
 ## 和我接触 🔗
 
--   Github: https://github.com/sooooooooooooooooootheby
+-   Github: https://github.com/Kemeow815
 
--   email: sooooooooooooooooootheby@e.s22y.moe
+-   email: kemiao@kmblog.icu
 
--   discord: sooooooooooooooooootheby
+-   telegram: https://t.me/KemiaoJun
