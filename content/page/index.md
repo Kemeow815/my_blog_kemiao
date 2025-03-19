@@ -1,5 +1,5 @@
 <a href="/">
-    <img src="/Canvas-Ruom.webp" alt="cover" >
+    <img src="/background.jpg" alt="cover" >
 </a>
 
 # 嗨! 我的朋友 👋
@@ -25,7 +25,7 @@
 
 ## 活跃 🛜
 
-<img src="https://ghchart.rshah.org/d9908e/sooooooooooooooooootheby" alt="2016rshah's Github chart" />
+<img src="https://ghchart.rshah.org/d9908e/Kemeow815" alt="Kemiao's Github chart" />
 
 ## 和我接触 🔗
 
