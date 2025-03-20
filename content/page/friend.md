@@ -32,10 +32,10 @@
 // my info
 
 {
-    name: "sooooooooooooooooootheby", # or s22y
-    url: "http://blog.sooooooooooooooooootheby.top/",
-    description: "Go to the pier and get some fries",
-    button: "https://blog.sooooooooooooooooootheby.top/friend/Sooooooooooooooooootheby.webp",
-    avatar: "https://blog.sooooooooooooooooootheby.top/logo_small.webp"
+    name: "克喵爱吃卤面", # or s22y
+    url: "http://blog.kemiao.online/",
+    description: "致力于分享资源和生活~",
+    button: "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png",
+    avatar: "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202503171226033.png"
 }
 ```

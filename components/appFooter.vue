@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        <div class="copyright">Copyright ©2023~2025.sooooooooooooooooootheby</div>
+        <div class="copyright">Copyright ©2025~.克喵爱吃卤面</div>
         <theme />
     </div>
 </template>

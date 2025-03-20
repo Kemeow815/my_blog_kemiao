@@ -27,8 +27,8 @@ const { data: article } = await useAsyncData(route.path, () => {
 });
 
 useSeoMeta({
-    title: `${article.value.title} | s22y`,
-    ogTitle: `${article.value.title} | s22y`,
+    title: `${article.value.title} | 克喵爱吃卤面`,
+    ogTitle: `${article.value.title} | 克喵爱吃卤面`,
     description: article.value.description,
 });
 </script>

@@ -6,11 +6,11 @@
 
 ## 欢迎光临我的 blog 🎉
 
-我是 克喵爱吃卤面(Kemeow815), 一个前端 `developer`, 我擅长使用`vue.js` & `Nuxt.js`.
+我是 克喵爱吃卤面(Kemeow815), 致力于分享资源和生活.
 
 ## 正在研究的项目 🎁
 
--   [Wonderland tea party](https://github.com/sooooooooooooooooootheby/Wonderland-tea-party) 这是一个基于 Nuxt.js 的 ai 聊天应用，通过各大服务商的 api 调用大型语言模型进行聊天.
+-   [Kemiaofx](https://github.com/Kemeow815/Kemiaofx) 这是一个分享资源的项目，你可以在这里找到各种资源的链接地址。
 
 ## 技术栈 🛟
 

@@ -5,15 +5,15 @@ export default defineNuxtConfig({
     app: {
         pageTransition: { name: "page", mode: "out-in" },
         head: {
-            title: "S22y",
+            title: "克喵の小筑",
             htmlAttrs: {
                 lang: "zh-cn",
             },
-            link: [{ rel: "icon", type: "image/x-icon", href: "/logo_small.webp" }],
+            link: [{ rel: "icon", type: "image/x-icon", href: "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/kemeow815@avatar.png" }],
             meta: [
                 { name: "description", content: "去码头整点薯条" },
                 { name: "ogDescription", content: "去码头整点薯条" },
-                { name: "ogImage", content: "/Canvas-Ruom.webp" },
+                { name: "ogImage", content: "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/back2.jpg" },
             ],
         },
     },

@@ -19,8 +19,8 @@
 
 <script lang="ts" setup>
 useSeoMeta({
-    title: "S22y 的朋友",
-    ogTitle: "S22y 的朋友",
+    title: "克喵 的朋友",
+    ogTitle: "克喵 的朋友",
 });
 
 const route = useRoute();

@@ -7,16 +7,16 @@ export default defineEventHandler(async (event) => {
 
         // 创建 rss 对象
         const feed = new RSS({
-            title: "S22y",
-            site_url: "https://blog.s22y.moe",
-            feed_url: `https://blog.s22y.moe/rss.xml`,
+            title: "克喵の小筑",
+            site_url: "https://cc.kemiao.online",
+            feed_url: `https://cc.kemiao.online/rss.xml`,
         });
 
         // 遍历获取的数据
         for (const post of posts) {
             feed.item({
                 title: post.title,
-                url: `https://blog.s22y.moe/${post.path}`,
+                url: `https://cc.kemiao.online/${post.path}`,
                 description: post.description,
                 date: post.data,
             });

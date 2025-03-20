@@ -1,7 +1,7 @@
 <template>
     <div class="header">
         <div class="info">
-            <img src="/logo_MG.gif" alt="logo_MG" class="img" />
+            <img src="https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/kemeow815@avatar.png" alt="logo_MG" class="img" />
         </div>
         <ul class="navigate pc">
             <li class="item" v-if="isPath('/')"><NuxtLink to="/">about</NuxtLink></li>

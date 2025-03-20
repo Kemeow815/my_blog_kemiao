@@ -11,8 +11,8 @@
 
 <script lang="ts" setup>
 useSeoMeta({
-    title: "S22y 的随记",
-    ogTitle: "S22y 的随记",
+    title: " 的随记",
+    ogTitle: " 的随记",
 });
 
 const { data: note } = await(async () => {

@@ -15,8 +15,8 @@
 
 <script lang="ts" setup>
 useSeoMeta({
-    title: "S22y 的文章",
-    ogTitle: "S22y 的文章",
+    title: "克喵 的文章",
+    ogTitle: "克喵 的文章",
 });
 
 const { data: list } = await useAsyncData("list", () => {
