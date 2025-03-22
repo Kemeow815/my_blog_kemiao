@@ -12,6 +12,9 @@
 
 -   [Kemiaofx](https://github.com/Kemeow815/Kemiaofx) 这是一个分享资源的项目，你可以在这里找到各种资源的链接地址。
 
+-   [PinkLine](https://github.com/sooooooooooooooooootheby/PinkLine)
+基于nuxt3 + nuxt/content3的个人博客模板
+
 ## 技术栈 🛟
 
 <div class="iconBox">
