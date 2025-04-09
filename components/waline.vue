@@ -8,11 +8,16 @@ import { init } from "@waline/client";
 onMounted(() => {
     init({
         el: "#waline",
+
         serverURL: "https://waline-cc.kemiaosw.top/",
         reaction: true,
         search: true,
         dark: "html[class='dark-mode']",
-        emoji: ["https://gcore.jsdelivr.net/gh/sooooooooooooooooootheby/pinkline_commit@v1.0.0/r1999"],
+        emoji: [
+            "https://gcore.jsdelivr.net/gh/sooooooooooooooooootheby/Emoji_Chest@v1.0.0/package/r1999",
+            "https://gcore.jsdelivr.net/gh/sooooooooooooooooootheby/Emoji_Chest@v1.0.0/package/aurakingdom",
+            "https://gcore.jsdelivr.net/gh/sooooooooooooooooootheby/Emoji_Chest@v1.0.0/package/mita"
+        ],
     });
 });
 </script>
